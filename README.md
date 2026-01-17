@@ -1,0 +1,1 @@
+These bots are to be used as examples of how automation can work in cybersecurity. With the bot.py being used as a way to send a corrupted link that can take information from you if clicked on. For the detector_bot, this is used to find the bot that sends corrupted links.
